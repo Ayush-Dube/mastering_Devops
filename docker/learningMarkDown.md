@@ -9,15 +9,24 @@ make a link
 >>- write here
 >>- second point  
 
->close this now
+close this now
 >## main
+>another block
+>
+#earth
+
 
 ---
 
 ### tables
 |a|b|
 |---|---|
-|awesome|point1<br>point2<br>point3|magic|
+|awesome|point1<br>point2<br>point3|
+
+## other table   
+|p|q|r|s|
+|---|---|---|---|
+|area1|point1|point2|point3|
 
 ---
 > [!NOTE]
