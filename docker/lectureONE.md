@@ -43,9 +43,28 @@ add multiple lines here.
 ## Images
 
 
-![Local Image](D:/mastring_DevOP/docker/devopsPic2.png)
+![localImage](devopsPic1.png)      <!--You can not adjust image size in markdown -->
+![2nd_image](./devopsPic4.png) <!-- use ./  for current working directory, also images are side by because no 2 double spacebar-->  
+
+`use ./  for current working directory, also images are side by because no 2 double spacebar`  
+
+<img src="devopsPic2.png" width="10%" style="align:center; border: 2px solid green">
+
+<img src="devopsPic3.png" width="15%" style="border:2px solid orange">  
 
 
-<img src="/docker/devopsPic2.png">
 
-<img src="/docker/devopsPic3.png">
+- observe! How the path is provided...
+
+
+---
+## For Emoji
+
+- win + .  
+- 🚀  
+- ⚡
+
+## Tables  
+|section1|section2|
+|---|---|
+|point1|point2|
