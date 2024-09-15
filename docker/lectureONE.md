@@ -71,14 +71,21 @@ add multiple lines here.
 
 ---
 ### Hide content
+`Use proper Indentation inside the details tag,observe code color highlight `
 <details>
-    <summary>Clickable</summary>
+<summary>Clickable</summary>
     
-    - point 🐦‍🔥
-    - point1 🦅
+ - point 🐦‍🔥
+ - point1 🦅
 
+ ### Radiant
+
+ |a|b|
+ |---|---|
+ |101|102|
     
 </details>
+
 
 ---
 ### Comments
