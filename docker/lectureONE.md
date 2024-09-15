@@ -66,5 +66,31 @@ add multiple lines here.
 
 ## Tables  
 |section1|section2|
-|---|---|
-|point1|point2|
+|---:|:---|  
+|point1|point2a<br>point2b|
+
+---
+### Hide content
+<details>
+    <summary>Clickable</summary>
+    
+    - point 🐦‍🔥
+    - point1 🦅
+
+    
+</details>
+
+---
+### Comments
+
+>syntax for comments
+>>`[//]:(write ur msg here...)`
+>
+>>`<!--your msg here-->`  
+>
+>
+[//]: # (this is a comment and will not be rendered.Also be mindful of spaces while writing [//]:space#space)
+---
+
+
+
